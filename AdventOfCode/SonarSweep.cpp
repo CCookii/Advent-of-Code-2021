@@ -37,6 +37,7 @@ int partTwo(string fileName) {
 		nums.erase(nums.begin());
 		nums.push_back(num);
 	}
+	return increaseCount;
 }
 
 int main(int argc, char* argv) {

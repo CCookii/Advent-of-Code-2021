@@ -24,7 +24,7 @@
     <ProjectGuid>{457ece1b-fc4d-4497-b36d-3239c117bdf8}</ProjectGuid>
     <RootNamespace>AdventOfCode</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>Day1</ProjectName>
+    <ProjectName>Day01</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
